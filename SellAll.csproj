@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <AssemblyName>SellAll</AssemblyName>
+    <RootNamespace>SellAllPlugin</RootNamespace>
+    <OutputType>Library</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AOSharp.Common">
+      <HintPath>..\aosp.knows-aosharp-mods\AOSharp\bin\Release\AOSharp.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="AOSharp.Core">
+      <HintPath>..\aosp.knows-aosharp-mods\AOSharp\bin\Release\AOSharp.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
