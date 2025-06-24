@@ -14,7 +14,6 @@ It is designed for **in-game AOSharp** and is **fully chat-based** for maximum c
 - **Never sells the containers/bags themselves**
 - **Automatically opens loot bags, moves items to main inventory, and sells to the nearest vendor**
 - **Warns you if inventory is full or no vendor is nearby**
-- **Only uses chat for all info and warnings** (no popups or UI windows, due to AOSharp plugin limitations)
 
 ---
 
@@ -43,7 +42,6 @@ It is designed for **in-game AOSharp** and is **fully chat-based** for maximum c
 
 - **Clear your inventory of any items you do not want to be sold!**
 - This plugin sells every item inside bags named `'loot'` (can be anywhere in name) when enabled, as soon as you are near a recognized vendor.
-- The plugin **cannot create pop-up windows** or custom UI because of AOSharp in-game plugin API restrictions. All feedback and warnings are shown in chat.
 
 ---
 
@@ -61,7 +59,7 @@ You must be near one of these to sell items.
 ## Support
 
 If you have questions, feature requests, or want to report a bug,  
-please contact the plugin author or your AOSharp admin.
+please contact me on Discord @Gracesblades.
 
 ---
 
